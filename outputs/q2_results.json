@@ -1,0 +1,72 @@
+{
+  "best": [
+    {
+      "case": 1,
+      "x1": 0,
+      "x2": 0,
+      "inspect_product": 0,
+      "disassemble": 1,
+      "profit": 18.375555555555557,
+      "cost": 37.62444444444444,
+      "mode": "no_inspect",
+      "q": 0.2709999999999999
+    },
+    {
+      "case": 2,
+      "x1": 1,
+      "x2": 1,
+      "inspect_product": 0,
+      "disassemble": 1,
+      "profit": 10.75,
+      "cost": 45.25,
+      "mode": "no_inspect",
+      "q": 0.19999999999999996
+    },
+    {
+      "case": 3,
+      "x1": 0,
+      "x2": 0,
+      "inspect_product": 1,
+      "disassemble": 1,
+      "profit": 16.278888888888886,
+      "cost": 39.721111111111114,
+      "mode": "inspect",
+      "q": 0.2709999999999999
+    },
+    {
+      "case": 4,
+      "x1": 1,
+      "x2": 1,
+      "inspect_product": 1,
+      "disassemble": 1,
+      "profit": 14.25,
+      "cost": 41.75,
+      "mode": "inspect",
+      "q": 0.19999999999999996
+    },
+    {
+      "case": 5,
+      "x1": 0,
+      "x2": 1,
+      "inspect_product": 0,
+      "disassemble": 1,
+      "profit": 14.583333333333336,
+      "cost": 41.416666666666664,
+      "mode": "no_inspect",
+      "q": 0.18999999999999995
+    },
+    {
+      "case": 6,
+      "x1": 0,
+      "x2": 0,
+      "inspect_product": 0,
+      "disassemble": 0,
+      "profit": 21.6786703601108,
+      "cost": 34.3213296398892,
+      "mode": "no_inspect",
+      "q": 0.1426250000000001
+    }
+  ],
+  "n_strategies": 16,
+  "n_cases": 6
+}

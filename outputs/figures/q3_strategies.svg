@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" fill="white"/>
+<text x="450.0" y="28" text-anchor="middle" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="700">Q3 典型策略期望利润对比</text>
+<line x1="749.7475378015918" y1="55" x2="749.7475378015918" y2="315" stroke="#111827" stroke-width="1.2"/>
+<rect x="749.75" y="55" width="100.25" height="24" fill="#16a34a" opacity="0.85"/>
+<text x="320" y="72" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">最优</text>
+<text x="856.00" y="72" text-anchor="start" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">57.688</text>
+<rect x="749.75" y="97" width="96.35" height="24" fill="#16a34a" opacity="0.85"/>
+<text x="320" y="114" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">全检</text>
+<text x="852.10" y="114" text-anchor="start" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">55.444</text>
+<rect x="749.75" y="139" width="100.25" height="24" fill="#16a34a" opacity="0.85"/>
+<text x="320" y="156" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">只检零件</text>
+<text x="856.00" y="156" text-anchor="start" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">57.688</text>
+<rect x="749.75" y="181" width="65.74" height="24" fill="#16a34a" opacity="0.85"/>
+<text x="320" y="198" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">只检成品</text>
+<text x="821.49" y="198" text-anchor="start" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">37.828</text>
+<rect x="330.00" y="223" width="419.75" height="24" fill="#dc2626" opacity="0.85"/>
+<text x="320" y="240" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">全不检</text>
+<text x="324.00" y="240" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">-241.536</text>
+<rect x="749.75" y="265" width="64.51" height="24" fill="#16a34a" opacity="0.85"/>
+<text x="320" y="282" text-anchor="end" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">全检不拆</text>
+<text x="820.25" y="282" text-anchor="start" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="12">37.119</text>
+<text x="590.0" y="348" text-anchor="middle" font-family="Microsoft YaHei, SimHei, Noto Sans CJK SC, sans-serif" font-size="13">期望利润</text>
+</svg>

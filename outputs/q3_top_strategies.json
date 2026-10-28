@@ -1,0 +1,4402 @@
+[
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 57.68844444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=000; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.666666666666686,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.56666666666669,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.46666666666667,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.46666666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.366666666666674,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.366666666666674,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.26666666666668,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 57.166666666666686,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.67666666666668,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.604444444444454,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=100; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.604444444444454,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=001; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.604444444444454,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=010; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.56666666666669,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111101; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.50444444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=001; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.48666666666668,
+    "bits": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10011111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.48666666666668,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.48666666666668,
+    "bits": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01011111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.48666666666668,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.47666666666669,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111000; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.47666666666669,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.46666666666667,
+    "bits": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10111111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.46666666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.46666666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.46666666666667,
+    "bits": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01111111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.404444444444465,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11011111; semi_inspect=100; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 56.404444444444465,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111011; semi_inspect=010; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.386666666666684,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.386666666666684,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.386666666666684,
+    "bits": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01011110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.386666666666684,
+    "bits": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10011110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011101; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10111110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111001; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01111110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.366666666666674,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.28666666666669,
+    "bits": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11001011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.28666666666669,
+    "bits": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01011011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.28666666666669,
+    "bits": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10011011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.28666666666669,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11010011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.27666666666667,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011000; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.26666666666668,
+    "bits": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01111011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.26666666666668,
+    "bits": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11001111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.26666666666668,
+    "bits": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10111011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.26666666666668,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11010111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.186666666666696,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11010010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.186666666666696,
+    "bits": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10011010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.18666666666667,
+    "bits": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01011010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.18666666666667,
+    "bits": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11001010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.166666666666686,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11011001; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.166666666666686,
+    "bits": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11001110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.166666666666686,
+    "bits": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10111010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.166666666666686,
+    "bits": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01111010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 56.166666666666686,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11010110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.848938271604936,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=000; semi_disassemble=110; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.844444444444434,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=101; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.844444444444434,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=011; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.844444444444434,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=110; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.827160493827165,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=111; semi_disassemble=110; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.74444444444444,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=011; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.74444444444444,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=101; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.70466666666667,
+    "bits": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=00011111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.70466666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11100011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.644444444444446,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11011111; semi_inspect=101; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.644444444444446,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11011111; semi_inspect=110; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.644444444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111011; semi_inspect=110; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.644444444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111011; semi_inspect=011; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.627160493827176,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "label": "components=11011111; semi_inspect=111; semi_disassemble=110; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.627160493827176,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "label": "components=11111011; semi_inspect=111; semi_disassemble=110; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.614444444444445,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111100; semi_inspect=001; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.604666666666674,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11100010; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.604666666666674,
+    "bits": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=00011110; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      0,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.5896790123457,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=000; semi_disassemble=011; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      0,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.5896790123457,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=000; semi_disassemble=101; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.580246913580254,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=111; semi_disassemble=110; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      0,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.5679012345679,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=111; semi_disassemble=011; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      0,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.5679012345679,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=111; semi_disassemble=101; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.54444444444445,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111010; semi_inspect=011; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.54444444444445,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11011110; semi_inspect=101; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.50466666666668,
+    "bits": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=00011011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.50466666666668,
+    "bits": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11000011; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      0,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.50444444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111101; semi_inspect=001; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.4966666666667,
+    "bits": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10011100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.4966666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110000; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.49666666666667,
+    "bits": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01011100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.49666666666667,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101000; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.48666666666668,
+    "bits": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=00111111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.48666666666668,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11100111; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.47666666666669,
+    "bits": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=10111100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.47666666666669,
+    "bits": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=01111100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.47666666666669,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11110100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.47666666666669,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11101100; semi_inspect=111; semi_disassemble=111; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      0,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.46790123456793,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=111; semi_disassemble=101; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      0,
+      1,
+      1
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.46790123456793,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "label": "components=11111110; semi_inspect=111; semi_disassemble=011; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.44444444444446,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11011011; semi_inspect=110; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.44444444444446,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11111111; semi_inspect=111; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      1,
+      1,
+      1
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      0
+    ],
+    "root_inspect": 0,
+    "root_disassemble": 1,
+    "profit": 55.42716049382716,
+    "bits": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "label": "components=11011011; semi_inspect=111; semi_disassemble=110; product_inspect=0; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.42444444444445,
+    "bits": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11101011; semi_inspect=010; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  },
+  {
+    "components": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "semi_inspect": [
+      0,
+      1,
+      0
+    ],
+    "semi_disassemble": [
+      1,
+      1,
+      1
+    ],
+    "root_inspect": 1,
+    "root_disassemble": 1,
+    "profit": 55.42444444444445,
+    "bits": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "label": "components=11110011; semi_inspect=010; semi_disassemble=111; product_inspect=1; product_disassemble=1"
+  }
+]

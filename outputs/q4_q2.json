@@ -1,0 +1,208 @@
+{
+  "1": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 0,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 18.375555555555557,
+      "posterior_mean_profit": 17.89518420331141,
+      "posterior_p05_profit": 13.520806624076675,
+      "optimal_frequency": 0.445
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 0,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 18.375555555555557,
+      "posterior_mean_profit": 17.89518420331141,
+      "posterior_p05_profit": 13.520806624076675,
+      "optimal_frequency": 0.445
+    },
+    "saa_regret_vs_plugin": 0.0,
+    "strategy_frequencies": {
+      "x1=0,x2=0,y=0,d=1": 0.445,
+      "x1=1,x2=0,y=0,d=1": 0.314375,
+      "x1=1,x2=1,y=0,d=1": 0.14125,
+      "x1=0,x2=1,y=0,d=1": 0.09625,
+      "x1=1,x2=0,y=0,d=0": 0.003125
+    },
+    "n_posterior_samples": 1600
+  },
+  "2": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 1,
+        "x2": 1,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 10.75,
+      "posterior_mean_profit": 10.018306772735297,
+      "posterior_p05_profit": 5.066956712789811,
+      "optimal_frequency": 0.890625
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 1,
+        "x2": 1,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 10.75,
+      "posterior_mean_profit": 10.018306772735297,
+      "posterior_p05_profit": 5.066956712789811,
+      "optimal_frequency": 0.890625
+    },
+    "saa_regret_vs_plugin": 0.0,
+    "strategy_frequencies": {
+      "x1=1,x2=1,y=0,d=1": 0.890625,
+      "x1=1,x2=0,y=0,d=1": 0.101875,
+      "x1=0,x2=1,y=0,d=1": 0.00625,
+      "x1=0,x2=0,y=0,d=1": 0.00125
+    },
+    "n_posterior_samples": 1600
+  },
+  "3": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 0,
+        "inspect_product": 1,
+        "disassemble": 1
+      },
+      "true_profit": 16.278888888888886,
+      "posterior_mean_profit": 15.669013379561564,
+      "posterior_p05_profit": 11.527003178121449,
+      "optimal_frequency": 0.575
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 0,
+        "inspect_product": 1,
+        "disassemble": 1
+      },
+      "true_profit": 16.278888888888886,
+      "posterior_mean_profit": 15.669013379561564,
+      "posterior_p05_profit": 11.527003178121449,
+      "optimal_frequency": 0.575
+    },
+    "saa_regret_vs_plugin": 0.0,
+    "strategy_frequencies": {
+      "x1=0,x2=0,y=1,d=1": 0.575,
+      "x1=1,x2=0,y=1,d=1": 0.2375,
+      "x1=1,x2=1,y=0,d=1": 0.115625,
+      "x1=0,x2=1,y=1,d=1": 0.03625,
+      "x1=1,x2=1,y=1,d=1": 0.020625,
+      "x1=1,x2=0,y=0,d=1": 0.014375,
+      "x1=0,x2=0,y=0,d=1": 0.000625
+    },
+    "n_posterior_samples": 1600
+  },
+  "4": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 1,
+        "x2": 1,
+        "inspect_product": 1,
+        "disassemble": 1
+      },
+      "true_profit": 14.25,
+      "posterior_mean_profit": 13.799658073514372,
+      "posterior_p05_profit": 9.993675230548634,
+      "optimal_frequency": 0.98125
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 1,
+        "x2": 1,
+        "inspect_product": 1,
+        "disassemble": 1
+      },
+      "true_profit": 14.25,
+      "posterior_mean_profit": 13.799658073514372,
+      "posterior_p05_profit": 9.993675230548634,
+      "optimal_frequency": 0.98125
+    },
+    "saa_regret_vs_plugin": 0.0,
+    "strategy_frequencies": {
+      "x1=1,x2=1,y=1,d=1": 0.98125,
+      "x1=0,x2=1,y=1,d=1": 0.0125,
+      "x1=1,x2=0,y=1,d=1": 0.005625,
+      "x1=1,x2=1,y=0,d=1": 0.000625
+    },
+    "n_posterior_samples": 1600
+  },
+  "5": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 1,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 14.583333333333336,
+      "posterior_mean_profit": 14.178173433495433,
+      "posterior_p05_profit": 9.028562473519441,
+      "optimal_frequency": 0.71875
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 1,
+        "inspect_product": 0,
+        "disassemble": 1
+      },
+      "true_profit": 14.583333333333336,
+      "posterior_mean_profit": 14.178173433495433,
+      "posterior_p05_profit": 9.028562473519441,
+      "optimal_frequency": 0.71875
+    },
+    "saa_regret_vs_plugin": 0.0,
+    "strategy_frequencies": {
+      "x1=0,x2=1,y=0,d=1": 0.71875,
+      "x1=0,x2=1,y=1,d=1": 0.28125
+    },
+    "n_posterior_samples": 1600
+  },
+  "6": {
+    "plugin_best": {
+      "strategy": {
+        "x1": 0,
+        "x2": 0,
+        "inspect_product": 0,
+        "disassemble": 0
+      },
+      "true_profit": 21.6786703601108,
+      "posterior_mean_profit": 20.557760455387097,
+      "posterior_p05_profit": 15.49420382250657,
+      "optimal_frequency": 0.525
+    },
+    "saa_best": {
+      "strategy": {
+        "x1": 1,
+        "x2": 0,
+        "inspect_product": 0,
+        "disassemble": 0
+      },
+      "true_profit": 21.328765126111676,
+      "posterior_mean_profit": 20.655640792797715,
+      "posterior_p05_profit": 16.469713187425725,
+      "optimal_frequency": 0.46
+    },
+    "saa_regret_vs_plugin": 0.34990523399912377,
+    "strategy_frequencies": {
+      "x1=0,x2=0,y=0,d=0": 0.525,
+      "x1=1,x2=0,y=0,d=0": 0.46,
+      "x1=1,x2=1,y=0,d=0": 0.0125,
+      "x1=0,x2=0,y=1,d=0": 0.0025
+    },
+    "n_posterior_samples": 1600
+  }
+}
